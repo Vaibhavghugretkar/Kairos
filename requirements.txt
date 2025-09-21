@@ -1,0 +1,33 @@
+# Backend
+fastapi
+uvicorn[standard]
+python-multipart           
+python-dotenv
+pypdf                     
+python-docx              
+requests                 
+
+
+google-generative-ai
+
+# Frontend (Streamlit)
+streamlit
+re
+spacy
+
+# Utilities (recommended)
+pytest
+
+gradio_client
+
+# --- AI & Machine Learning ---
+numpy<2.0 
+torch==2.3.0
+transformers==4.41.2
+sentencepiece==0.2.0
+accelerate==0.30.1
+bitsandbytes==0.43.1
+peft==0.11.1
+trl==0.8.6
+huggingface_hub==0.23.0
+google-generativeai==0.5.4

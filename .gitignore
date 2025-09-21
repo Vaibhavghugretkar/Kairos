@@ -1,0 +1,10 @@
+.env
+venv/
+gemma-local-model/
+output_data
+__pycache__/
+batch_and_augment.py
+cleanup.py 
+pipeline_orchestrator.py
+test_qa.py
+tempCodeRunnerFile.py
