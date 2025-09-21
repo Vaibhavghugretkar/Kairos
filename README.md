@@ -153,12 +153,3 @@ Contributions are welcome! 🎉
 If you’d like to add new features or suggest improvements, feel free to open an issue or PR.
 
 ---
-
-## 👨‍💻 Author
-
-Made with ❤️ by **Aryan**  
-
-- 🌐 GitHub: [Aryan-2511](https://github.com/Aryan-2511)  
-- 🤗 Hugging Face: [Aryan-2511](https://huggingface.co/Aryan-2511)  
-
----
