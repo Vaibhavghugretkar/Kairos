@@ -73,7 +73,7 @@ The system runs through **four modular agents**:
 ## 🔧 Quick Start
 ```bash
 # 1. Clone repo
-git clone https://github.com/Aryan-2511/LexiClarus.git
+git clone https://github.com/Vaibhavghugretkar/Kairos.git
 cd LexiClarus
 
 # 2. Setup environment
